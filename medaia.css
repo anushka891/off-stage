@@ -34,15 +34,12 @@
   .mt-lg-8 {
     margin-top: 96px;
   }
-
   .mt-md-7 {
     margin-top: 84px;
   }
-
   .mt-sm-6 {
     margin-top: 72px;
   }
-
   .mt-5 {
     margin-top: 60px;
   }
@@ -54,10 +51,6 @@
   }
   .font-24 {
     font-size: 20px;
-  }
-  .flower-img {
-    top: 60%;
-    left: 55%;
   }
 }
 @media (max-width: 991px) {
@@ -85,10 +78,6 @@
   }
   .r-20 {
     right: 3.5rem;
-  }
-  .flower-img {
-    top: 50%;
-    left: 45%;
   }
   .max-w-250 {
     max-width: 100%;
