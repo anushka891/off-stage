@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.header-text {
+  background: linear-gradient(
+    90deg,
+    #8127aa 44.14%,
+    #336aa7 55.47%,
+    #6da6a8 64.67%,
+    #2576a6 74.25%,
+    #bd966f 88.42%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.inter {
+  font-family: "Inter", serif;
+}
