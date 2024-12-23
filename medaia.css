@@ -229,8 +229,8 @@
     bottom: 50px !important;
   }
 }
-@media (max-width: 450px) {
-  .flower-img {
+@media (max-width: 400px) {
+  .flower-pos {
     display: none !important;
   }
 }
